@@ -8,9 +8,9 @@ Welcome to the Flutter Movie App repository, your go-to destination for discover
 <img src="https://github.com/YugamPatel/FlutterMovieApp/blob/main/page1.png" width=350 height = 650 ></img>
 <img src="https://github.com/YugamPatel/FlutterMovieApp/blob/main/page2.png" width=350 height = 652 ></img>
 </p><br><br>
-## What is Flutter Movie App?
 
-The Flutter Movie App is a user-friendly movie application developed with Flutter. It provides a seamless and enjoyable experience for movie enthusiasts and casual viewers alike.
+## What is Flutter Movie App?
+The Flutter Movie App is a user-friendly movie application developed with Flutter.
 
 ## Features
 
